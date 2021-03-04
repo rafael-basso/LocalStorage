@@ -1,0 +1,12 @@
+LocalStorage saves data even when closing the project
+
+Methods:
+removeItem()
+getItem() // returns the value, not the key value => parameter must bey a key value (string)
+clear()
+key() // returns the key 
+setItem()
+
+LocalStorage works as arrays and store only strings
+
+location.reload() // refresh the page
